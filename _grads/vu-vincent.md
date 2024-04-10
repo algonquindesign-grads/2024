@@ -1,6 +1,6 @@
 ---
 layout: portfolio-video
-first_name: "Vicent"
+first_name: "Vincent"
 last_name: "Vu"
 grad_headshot: "/designers/headshots/v-vincent.png"
 grad_website: "https://www.vincent-vu.com/"
@@ -19,17 +19,17 @@ soft_skills:
 instagram_link: "https://www.instagram.com/vincent.vu.design/"
 linkedin_link: "https://www.linkedin.com/in/vincent-vu-student-r-g-d-763898181/"
 vimeo_link: "https://vimeo.com/user197359058" 
-grad_video1: ""
-grad_video2: ""
+grad_video1: "3Ihe6IKfYS0?si=uGwRidyeLwkiC-r9"
+grad_video2: "oIqk3vV3WVk?si=7GvTLrBT1RUwewi8"
 portfolio_title1: "2024 Motion Reel"
 portfolio_description1: |
   All of my best motion work from the past year is included. 2D? 3D? I love to do it all!
 portfolio_title2: "Animated Short: Ronin"
 portfolio_description2: |
    A brooding animated short inspired by Japanese ink paintings. Approaching the short, I wanted to build moody tension, all leading up to epic and cathartic story beats.
-meta_sitetitle: "Vinvent Vu · Graphic Designer"
-meta_description: "Vinvent Vu's about page"
-meta_title: "Vinvent Vu · Graphic Designer"
+meta_sitetitle: "Vincent Vu · Graphic Designer"
+meta_description: "Vincent Vu's about page"
+meta_title: "Vincent Vu · Graphic Designer"
 meta_url: "grads/vu-vincent"
 meta_img: "/designers/headshots/v-vincent.png"
 

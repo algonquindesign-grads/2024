@@ -42,6 +42,7 @@ filters_img_src_500: "B_Alex-p-500.png"
 specialty:
   - "branding"
   - "illustration"
+  - "photography"
   - "print"
   - "typography"
 ---

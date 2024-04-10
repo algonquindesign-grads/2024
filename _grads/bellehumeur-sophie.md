@@ -18,7 +18,6 @@ soft_skills:
   - "Time Management" 
 instagram_link: "https://instagram.com/sophiebellehumeurdesign"
 linkedin_link: "https://www.linkedin.com/in/sophie-bellehumeur-graphic-designer613"
-behance_link: "" 
 grad_portfolio1: "/designers/portfolio-pieces/belle-sophie-1.jpg"
 grad_portfolio2: "/designers/portfolio-pieces/belle-sophie-2.jpg"
 grad_portfolio3: "/designers/portfolio-pieces/belle-sophie-3.jpg"

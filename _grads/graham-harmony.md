@@ -17,8 +17,6 @@ soft_skills:
   - "Painting" 
   - "Camping and being one with nature" 
 instagram_link: "https://instagram.com/harmony.g.designs"
-linkedin_link: ""
-behance_link: "" 
 grad_portfolio1: "/designers/portfolio-pieces/graham-harmony1.jpeg"
 grad_portfolio2: "/designers/portfolio-pieces/graham-harmony2.jpeg"
 grad_portfolio3: "/designers/portfolio-pieces/graham-harmony3.jpeg"

@@ -3,7 +3,7 @@ layout: portfolio-video
 first_name: "Andrea"
 last_name: "Pitre"
 grad_headshot: "/designers/headshots/p-andrea.png"
-grad_website: "www.andreapitre.com"
+grad_website: "https://www.andreapitre.com"
 grad_email: "andrea.pitre.design@gmail.com"
 about_me: |
   I've always been at home with the arts, and vector based illustrations have been a comfort since childhood. My creative curiosity has led me to web and motion design, mediums that I hope to use to educate, and/or brighten someone’s day! I’m hardworking, happy to learn, and love to experiment with my craft. I also rock to 90s grunge, enjoy a good spooky movie, and squeeze in time to play video games when I can.
@@ -16,7 +16,7 @@ soft_skills:
   - "Passionate"  
   - "Tenacious Work Ethic" 
   - "Strong Communication Skills"   
-instagram_link: "www.instagram.com/andrea_pitre_design"
+instagram_link: "https://www.instagram.com/andrea_pitre_design"
 linkedin_link: "https://www.linkedin.com/in/andrea-pitre-design"
 grad_video1: "CezJyhliqXo?si=ZzvfYpFDYimSKiVp"
 grad_video2: "_wQyzUfjTbU?si=WT1D12esszEidRio"

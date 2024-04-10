@@ -16,7 +16,7 @@ soft_skills:
   - "Resourceful"  
   - "Helping" 
   - "Fun to Work with" 
-instagram_link: "https://instagram.com/sometimes_mellow"
+instagram_link: "https://instagram.com/shaan.design_"
 linkedin_link: "https://www.linkedin.com/in/shaan-shaan-1630182b7/"
 grad_portfolio1: "/designers/portfolio-pieces/shaan-piece1.jpg"
 grad_portfolio2: "/designers/portfolio-pieces/shaan-piece2.jpg"

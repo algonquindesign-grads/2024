@@ -49,5 +49,6 @@ specialty:
   - "illustration"
   - "packaging"
   - "print"  
+  - "photography"
   - "typography"
 ---

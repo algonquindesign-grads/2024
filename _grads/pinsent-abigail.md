@@ -3,7 +3,7 @@ layout: portfolio-images-video
 first_name: "Abigail"
 last_name: "Pinsent"
 grad_headshot: "/designers/headshots/p-abigail.png"
-grad_website: "abigailpinsent.ca"
+grad_website: "https://www.abigailpinsent.ca"
 grad_email: "abby.pinsent@gmail.com"
 about_me: |
   Hey, I'm Abby! Hello! I am a graphic design student at Algonquin College. My passion lies in illustration and branding, where I enjoy creating vibrant and bold designs. I also like to dabble in motion graphics and website design! My three years at Algonquin have been some of the best in my life; I learned so much about design. I also made some of the best friendships I've ever had. I'm very grateful to have been able to experience this!

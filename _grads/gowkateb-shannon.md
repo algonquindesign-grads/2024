@@ -20,8 +20,8 @@ instagram_link: "https://instagram.com/shannongkdesigns"
 linkedin_link: "https://www.linkedin.com/in/shannon-gow-kateb-060b48233/"
 dribble_link: "https://dribbble.com/shannongk"
 grad_video1: "mxsN3GDQyNk?si=yJbMQbkXPTEsa8ob"
-grad_portfolio2: "/designers/portfolio-pieces/lees-melissa-portfolio2.jpg"
-grad_portfolio3: "/designers/portfolio-pieces/lees-melissa-portfolio3.jpg"
+grad_portfolio2: "/designers/portfolio-pieces/gowkateb-shannon-piece-2.gif"
+grad_portfolio3: "/designers/portfolio-pieces/gowkateb-shannon-piece-3.gif"
 portfolio_title1: "2024 Motion Reel"
 portfolio_description1: |
   A combination of works completed in the past year.

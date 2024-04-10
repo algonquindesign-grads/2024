@@ -18,7 +18,6 @@ soft_skills:
   - "Time Management" 
 instagram_link: "https://instagram.com/bryarh.design"
 linkedin_link: "https://www.linkedin.com/in/bryar-hillier-774563217"
-behance_link: "https://www.behance.net/babaeinila" 
 grad_portfolio1: "/designers/portfolio-pieces/hillier-bryar-design1.jpg"
 grad_portfolio2: "/designers/portfolio-pieces/hillier-bryar-design2.jpg"
 grad_portfolio3: "/designers/portfolio-pieces/hillier-bryar-design3.jpg"

@@ -17,7 +17,7 @@ soft_skills:
   - "Storytelling" 
   - "Problem-solving" 
 instagram_link: "https://www.instagram.com/kierstenanne.design/"
-linkedin_link: "https:// www.linkedin.com/in/kiersten-lee"
+linkedin_link: "https://www.linkedin.com/in/kiersten-lee"
 grad_portfolio1: "/designers/portfolio-pieces/lee-kiersten-piece-1.jpg"
 grad_portfolio2: "/designers/portfolio-pieces/lee-kiersten-piece-2.jpg"
 grad_portfolio3: "/designers/portfolio-pieces/lee-kiersten-piece-3.jpg"
@@ -46,6 +46,10 @@ filters_img_src_500: "L_Kiersten-p-500.png"
 
 specialty:
   - "branding"
+  - "packaging"
+  - "illustration"
+  - "print"
+  - "photography"
   - "ui"
   - "web"
 ---

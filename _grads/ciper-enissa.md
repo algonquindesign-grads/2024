@@ -4,7 +4,7 @@ first_name: "Enissa"
 last_name: "Ciper"
 grad_headshot: "/designers/headshots/c-enissa.png"
 grad_website: "https://www.enissaciper.com"
-grad_email: "enissa2ciper@gmail.com:"
+grad_email: "enissa2ciper@gmail.com"
 about_me: |
   Hi my name is Enissa! I'm a designer specializing in logo design, branding, packaging and illustration. I am passionate about creating, and helping people communicate through design. 
 filters:
@@ -17,8 +17,6 @@ soft_skills:
   - "Adaptability" 
   - "Critical Thinking" 
 instagram_link: "https://instagram.com/enissadesign"
-linkedin_link: "https://www.linkedin.com/in/nilababaei/"
-behance_link: "https://www.behance.net/babaeinila" 
 grad_portfolio1: "/designers/portfolio-pieces/enissa-ciper-colombiansupremo-piece1.jpg"
 grad_portfolio2: "/designers/portfolio-pieces/ciper-enissa-pieece2.jpg"
 grad_portfolio3: "/designers/portfolio-pieces/ciper-enissa-bloomfields-piece3.jpg"

@@ -3,7 +3,7 @@ layout: portfolio-video
 first_name: "Lussier"
 last_name: "Emma"
 grad_headshot: "/designers/headshots/l-emma.png"
-grad_website: "emmajlussier.com"
+grad_website: "https://www.emmajlussier.com"
 grad_email: "emmajlussier@gmail.com"
 about_me: |
   I’m a junior Graphic Designer and Illustrator from Ottawa, Canada. I like to look at things creatively. In the last few years I have studied not only Graphic Design but completed the Illustration and Concept Art program. This has allowed me to work with a variety of art and design. I enjoy storyboarding, illustration, motion graphics and branding. Outside of work I like to read, crotchet, hang out with friends and spend time with family and my 2 dogs.
