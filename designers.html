@@ -118,7 +118,7 @@ permalink: /designers.html
 
           {% for grad in site.grads %}
 
-          <div class="mix {% for filters in grad.filters %}{{ filters | strip | downcase | remove: '|'}} {% endfor %}" id="w-node-_59683cc0-86ad-9461-df60-19baf9e662b5-55f1863b">
+          <div class="mix {% for filters in grad.filters %}{{ filters | strip | downcase | remove: '|' | replace: "3d", "threed" | remove: '/'}} {% endfor %}" id="w-node-_59683cc0-86ad-9461-df60-19baf9e662b5-55f1863b">
             <div class="dot-wrapper" id="w-node-_42284dfd-1e16-0b25-8f41-63d2beb7242f-55f1863b" data-w-id="42284dfd-1e16-0b25-8f41-63d2beb7242f">
               <div class="dot-hover new-dot"></div>
               <div class="profile-column-img">

@@ -10,7 +10,7 @@ about_me: |
 filters:
   - "Branding | "
   - "Motion | "
-  - "UX/UI"
+  - "UI/UX"
 soft_skills:
   - "Research"
   - "Creative Writing"  

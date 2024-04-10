@@ -10,7 +10,7 @@ about_me: |
 filters:
   - "Branding | "
   - "Packaging | "
-  - "UX/UI"
+  - "UI/UX"
 soft_skills:
   - "Adaptability"
   - "Open to diverse perspectives"  
