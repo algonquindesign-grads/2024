@@ -1018,6 +1018,7 @@ ul {
 
 .profile-icons-profile-page {
   display: flex;
+  justify-content:flex-start;
   margin-bottom: 1em;
 }
 
@@ -1748,7 +1749,8 @@ ul {
 }
 
 .profile-column-img.main-profile {
-  width: 220vw;
+  /* width: 220vw; */
+  width: 50%;
   max-width: 100%;
   margin-right: auto;
   padding-right: 20px;
@@ -1757,6 +1759,7 @@ ul {
 .profile-column {
   margin-top: 2em;
   margin-left: 0;
+  width: 50%;
 }
 
 .profile-image-container {
@@ -2091,6 +2094,7 @@ ul {
 }
 
 .portfolio-vid {
+
   border-radius: 50px;
   max-width: 100%;
   margin-bottom: 2em;
@@ -3084,6 +3088,8 @@ ul {
     padding-top: 6.5em;
   }
 
+  
+
   .profile-column-img {
     border-top-width: .9rem;
     border-left-width: .9rem;
@@ -3091,12 +3097,12 @@ ul {
   }
 
   .profile-column-img.main-profile {
-    width: 150vw;
-    max-width: 100%;
+    /* width: 150vw; */
   }
 
   .profile-column {
     margin-left: 40px;
+
   }
 
   .profile-image-container.profile-edits {
@@ -3501,7 +3507,7 @@ ul {
   }
 
   .profile-column-img.main-profile {
-    width: 165vw;
+    /* width: 165vw; */
     padding-top: 20px;
   }
 
@@ -3951,6 +3957,10 @@ ul {
     justify-items: center;
   }
 
+  .profile-icons-profile-page {
+    justify-content:center;
+  }
+
   .portfolio-wrapper {
     max-width: 700px;
     padding-left: 0;
@@ -4167,12 +4177,17 @@ ul {
   }
 
   .profile-column-img.main-profile {
-    width: 50vw;
+    /* width: 50vw; */
     margin-top: 90px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 0;
     padding-right: 0;
+    width: 100%;
+  }
+
+  .profile-column {
+    width: 100%;
   }
 
   .profile-image-container.profile-edits {
@@ -4900,7 +4915,7 @@ ul {
   }
 
   .profile-column-img.main-profile {
-    width: 85vw;
+    /* width: 85vw; */
   }
 
   .profile-image-container.profile-edits {
