@@ -40,6 +40,6 @@ filters_img_src: "O_Rachel.png"
 filters_img_src_500: "O_Rachel-p-500.png"
 
 specialty:
-  - "illustrations"
+  - "illustration"
   - "motion"
 ---
