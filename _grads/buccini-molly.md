@@ -18,16 +18,16 @@ soft_skills:
   - "Problem Solving" 
 grad_video1: "03b-zFf2t7A?si=7-GrWlbyP0dm5qEe"
 grad_portfolio2: "/designers/portfolio-pieces/buccini-molly-piece-2.jpg"
-grad_portfolio3: "/designers/portfolio-pieces/buccini-molly-piece-3.jpg"
+grad_portfolio3: "/designers/portfolio-pieces/buccini-molly-piece-3.png"
 portfolio_title1: "Logo Animation for The Orange Monkey"
 portfolio_description1: |
   Sleek and clean is my motto when it comes to good motion design. This piece skillfully elevates my logo redesign for the Ottawa bar and billiards establishment, The Orange Monkey.
 portfolio_title2: "Branding for Personal"
 portfolio_description2: |
    With funky colours and cosmic motifs, each individual piece is its own story, while being united under my personal brand.
-portfolio_title3: "Sticker Designs for the 9 Muses"
+portfolio_title3: "The Mousetrap Poster"
 portfolio_description3: |
-  Behold, the gospel truth. Using my illustration skillset with vector-making software, I gave a personal look to each Greek muse—Melpomene is my favourite.
+  I got to use my illustration skills and create something totally outside of the box that turned out to be a striking composition. I like playing with different, unexpected concepts: in this case, combining the look of a thrilling murder mystery and a childlike dollhouse.
 meta_sitetitle: "Molly Buccini · Graphic Designer"
 meta_description: "Molly Buccini's about page"
 meta_title: "Molly Buccini · Graphic Designer"
