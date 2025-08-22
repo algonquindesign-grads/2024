@@ -3,8 +3,8 @@ layout: portfolio-images
 first_name: "Bree"
 last_name: "Cousineau"
 grad_headshot: "/designers/headshots/c-bree.png"
-grad_website: "https://www.breecousineau.com/"
-grad_email: "bree.cousineau@gmail.com"
+grad_website: ""
+grad_email: ""
 about_me: |
   Hi, I'm Bree! I have a passion for all things creative and am always up for a challenge! Utilizing all of the Adobe applications to my advantage, I thrive when experimenting in different areas of design—specifically illustration, typography, print, and photography.
 filters:
@@ -16,8 +16,8 @@ soft_skills:
   - "Detail-oriented"  
   - "Organization" 
   - "Work ethic" 
-instagram_link: "https://instagram.com/breecousineau"
-linkedin_link: "https://www.linkedin.com/in/bree-cousineau92497545/"
+instagram_link: ""
+linkedin_link: ""
 grad_portfolio1: "/designers/portfolio-pieces/cousineau-bree-piece-1.png"
 grad_portfolio2: "/designers/portfolio-pieces/cousineau-bree-piece-2.png"
 grad_portfolio3: "/designers/portfolio-pieces/cousineau-bree-piece-3.png"
